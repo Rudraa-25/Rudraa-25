@@ -14,12 +14,13 @@ Also an artist — I draw anime characters and tech-inspired art 🎨
 
 ---
 
+---
+
 ## 🛠️ Skills
 
-- **Languages:** C++, Python  
-- **Microcontrollers:** Arduino, ESP32  
-- **Hardware:** 2-layer PCB design, transformer building  
-- **Tools:** EasyEDA, SolidWorks, VS Code, Arduino IDE, Linux
+| 🧠 Programming Languages | 🔌 Microcontrollers & Hardware | 🧰 Tools & Platforms |
+|--------------------------|-------------------------------|----------------------|
+| C++<br>Python            | Arduino<br>ESP32<br>Transformer Maker<br>2-Layer PCB Design | EasyEDA<br>SolidWorks<br>Arduino IDE<br>VS Code<br>Linux |
 
 ---
 
