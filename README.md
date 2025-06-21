@@ -26,9 +26,10 @@ Also an artist — I draw anime characters and tech-inspired art 🎨
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudraa-25&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraa-25&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudraa-25&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraa-25&layout=compact&theme=tokyonight&hide_border=false" height="180"/>
 </p>
+
 
 ---
 
