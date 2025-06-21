@@ -40,6 +40,31 @@
 - 🎨 Also an artist! Check out my art on [Instagram](https://www.instagram.com/rudra_25032008/)
 
 ---
+---
+
+<h2 align="center">⚡ My Skills</h2>
+
+<h3 align="center">🧠 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python" alt="C++ and Python" />
+</p>
+
+<h3 align="center">🔌 Hardware & Electronics</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-blue?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-black?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Transformer%20Maker-orange?style=flat" alt="Transformer" />
+  <img src="https://img.shields.io/badge/2-Layer%20PCB%20Design-green?style=flat" alt="2-Layer PCB" />
+</p>
+
+<h3 align="center">🧰 Tools & IDEs</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/EasyEDA-4169E1?style=flat" alt="EasyEDA" />
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/Linux-333?style=flat&logo=linux&logoColor=white" alt="Linux" />
+</p>
 
 ### 📬 Connect with Me
 - 📧 Email: rudraprajapati2k8@gmail.com  
