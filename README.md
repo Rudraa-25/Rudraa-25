@@ -20,7 +20,8 @@ Also an artist — I draw anime characters and tech-inspired art 🎨
 
 | 🧠 Programming Languages | 🔌 Microcontrollers & Hardware | 🧰 Tools & Platforms |
 |--------------------------|-------------------------------|----------------------|
-| C++<br>Python            | Arduino<br>ESP32<br>Transformer Maker<br>2-Layer PCB Design | EasyEDA<br>SolidWorks<br>Arduino IDE<br>VS Code<br>Linux |
+| C++<br>Python            | Arduino<br>ESP32<br>Transformer Maker<br>2-Layer PCB Design | EasyEDA<br>Arduino IDE<br>VS Code<br>Linux |
+
 
 ---
 
