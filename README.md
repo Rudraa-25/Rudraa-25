@@ -38,7 +38,7 @@ Also an artist — I draw anime characters and tech-inspired art 🎨
 ## 📬 Connect with Me
 
 - 📧 **Email:** rudraprajapati2k8@gmail.com  
-- 📷 **Instagram:** [@rudra_25032008](https://www.instagram.com/rudra_25032008/)  
+- 📷 **Instagram:** [@circuit.exe](https://www.instagram.com/circuit.exe/)  
 - 🧑‍🎨 **X (Twitter):** [@RUDRAARTISTS](https://x.com/RUDRAARTISTS)
 
 ---
